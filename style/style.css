@@ -1,0 +1,126 @@
+@font-face {
+  font-family: "Avenir";
+  src: local("Avenir"), url("../fonts/AvenirLTStd-Book.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Helvetica";
+  src: local("Helvetica"), url("../fonts/HelveticaBold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0 50px;
+  font-size: 100%;
+}
+.head {
+  display: flex;
+  align-items: center;
+}
+
+.left {
+  display: flex;
+  margin-top: 40px;
+}
+.left nav {
+  margin-top: 5px;
+  margin-left: 60px;
+}
+.left li {
+  display: initial;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #4b5d68;
+}
+.left .fi1 {
+  color: #212353;
+  font-weight: 800;
+}
+.left li {
+  margin-left: 50px;
+}
+.rite {
+  margin-left: 400px;
+}
+
+.btn {
+  margin-top: 50px;
+  background: #ffffff;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 160%;
+  color: #212353;
+  text-align: left;
+  padding: 10px 50px 10px 20px;
+  border: 0px;
+  cursor: pointer;
+  background-image: url(../icons/Group56.png);
+  background-position: 140px;
+  background-size: 25px;
+  background-repeat: no-repeat;
+  text-align: left;
+  border: none;
+}
+.btn:hover {
+  background-color: #f063b8;
+  color: white;
+  border: 1px solid transparent;
+  background-image: url(../icons/Group56.png);
+  background-position: 140px;
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
+.head a {
+  text-decoration: none;
+}
+.era {
+  margin-top: 100px;
+  height: 500px;
+}
+.era h1 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 88px;
+  color: #212353;
+}
+.era p {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  color: #4b5d68;
+  margin-top: 50px;
+}
+.bt2 {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: #9c69e2;
+  border-radius: 50px;
+  padding: 10px 30px;
+  margin-top: 20px;
+}
+.era .peop {
+  float: right;
+  margin-top: 100px;
+  border-radius: 50%;
+  shape-outside: circle(80%);
+}
