@@ -307,7 +307,7 @@ body {
   margin-left: 370px;
 }
 .col1 {
-  margin-top: 200px;
+  margin-top: 100px;
   width: 1300px;
   height: 600px;
   background-color: #9c69e2;
@@ -370,4 +370,181 @@ body {
 }
 .imeg57 {
   margin-left: 1050px;
+}
+footer {
+  margin-top: 100px;
+}
+.firtele {
+  display: flex;
+  margin-left: 50px;
+}
+h6 {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 52px;
+  color: #212353;
+}
+.left3 p {
+  margin-top: 10px;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  color: #4b5d68;
+}
+.rite3 {
+  margin-top: 13px;
+  height: 60px;
+  display: flex;
+  margin-left: 540px;
+}
+.bt5 {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background: #f063b8;
+  border-radius: 50px;
+  padding: 12px 35px;
+}
+.bt6 {
+  background: #ffffff;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 160%;
+  color: #212353;
+  text-align: left;
+  padding: 10px 50px 10px 20px;
+  border: 0px;
+  cursor: pointer;
+  background-image: url(../icons/Group56.png);
+  background-position: 140px;
+  background-size: 25px;
+  background-repeat: no-repeat;
+  text-align: left;
+  border: none;
+  margin-left: 30px;
+}
+.bt6:hover {
+  background-color: #f063b8;
+  color: white;
+  border: 1px solid transparent;
+  background-image: url(../icons/Group56.png);
+  background-position: 140px;
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
+.foot2 {
+  display: flex;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.fot21 h6 {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 32px;
+  color: #212353;
+  margin-left: 10px;
+}
+.fot211 {
+  display: flex;
+}
+.mgi {
+  margin-top: -5px;
+}
+.fot212 {
+  margin-top: 55px;
+}
+.fot212 p {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 29px;
+  letter-spacing: 0.01em;
+  color: #212353;
+}
+.fot213 {
+  margin-top: 30px;
+}
+.fot213 p {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 29 px;
+  letter-spacing: 0.01em;
+  color: #212353;
+}
+.fot22 {
+  margin-left: 400px;
+}
+.fot22 h6 {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212353;
+}
+.fot222 {
+  margin-top: 25px;
+}
+.fot22 p {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 40px;
+  color: #212353;
+}
+.fot23 {
+  margin-left: 150px;
+}
+.fot23 h6 {
+  font-family: "Avenir";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212353;
+}
+.fot232 {
+  margin-top: 25px;
+}
+.fot23 p {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 40px;
+  color: #212353;
+}
+.fot31 {
+  margin-left: 150px;
+}
+.fot31 h6 {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212353;
+}
+.imgSM {
+  margin-top: 25px;
 }
