@@ -462,6 +462,7 @@ h6 {
 }
 .fot211 {
   display: flex;
+  width: 300px;
 }
 .mgi {
   margin-top: -5px;
@@ -490,8 +491,20 @@ h6 {
   letter-spacing: 0.01em;
   color: #212353;
 }
+.fot214 {
+  margin-top: 100px;
+}
+.fot214 {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0.01em;
+  color: #212353;
+}
 .fot22 {
-  margin-left: 400px;
+  margin-left: 350px;
 }
 .fot22 h6 {
   font-family: "Avenir";
@@ -547,4 +560,8 @@ h6 {
 }
 .imgSM {
   margin-top: 25px;
+}
+.img65 {
+  margin-top: 200px;
+  margin-left: 150px;
 }
